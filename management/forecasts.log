@@ -1,0 +1,251 @@
+management.py[LINE:33]# INFO     [2019-12-29 03:20:02,538]  old db records deleted
+management.py[LINE:39]# INFO     [2019-12-29 03:20:02,541]  old files deleted
+proxy_helper.py[LINE:74]# INFO     [2019-12-29 03:20:02,806]  checking 1/7 proxy batch
+proxy_helper.py[LINE:74]# INFO     [2019-12-29 03:20:49,767]  checking 2/7 proxy batch
+proxy_helper.py[LINE:74]# INFO     [2019-12-29 03:21:41,160]  checking 3/7 proxy batch
+proxy_helper.py[LINE:74]# INFO     [2019-12-29 03:22:36,282]  checking 4/7 proxy batch
+proxy_helper.py[LINE:74]# INFO     [2019-12-29 03:23:21,830]  checking 5/7 proxy batch
+proxy_helper.py[LINE:74]# INFO     [2019-12-29 03:23:52,166]  checking 6/7 proxy batch
+proxy_helper.py[LINE:74]# INFO     [2019-12-29 03:24:16,542]  checking 7/7 proxy batch
+proxy_helper.py[LINE:85]# INFO     [2019-12-29 03:25:01,851]  proxy checking finished, found 1260 valid proxies
+management.py[LINE:50]# INFO     [2019-12-29 03:25:01,854]  start to parse sportsru instagram resource
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:25:04,136]  scraper 12 posts
+management.py[LINE:53]# INFO     [2019-12-29 03:25:04,136]  sportsru instagram resource is parsed
+management.py[LINE:50]# INFO     [2019-12-29 03:25:04,136]  start to parse fcsm_official instagram resource
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:25:06,025]  scraper 12 posts
+management.py[LINE:53]# INFO     [2019-12-29 03:25:06,026]  fcsm_official instagram resource is parsed
+management.py[LINE:50]# INFO     [2019-12-29 03:25:06,026]  start to parse spb.zenit instagram resource
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:25:07,625]  scraper 12 posts
+management.py[LINE:53]# INFO     [2019-12-29 03:25:07,625]  spb.zenit instagram resource is parsed
+management.py[LINE:50]# INFO     [2019-12-29 03:25:07,626]  start to parse fclokomotiv instagram resource
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:25:09,636]  scraper 12 posts
+management.py[LINE:53]# INFO     [2019-12-29 03:25:09,637]  fclokomotiv instagram resource is parsed
+management.py[LINE:50]# INFO     [2019-12-29 03:25:09,637]  start to parse fckrasnodar instagram resource
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:25:12,163]  scraper 12 posts
+management.py[LINE:53]# INFO     [2019-12-29 03:25:12,163]  fckrasnodar instagram resource is parsed
+management.py[LINE:50]# INFO     [2019-12-29 03:25:12,164]  start to parse armeytsy instagram resource
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:25:13,989]  scraper 12 posts
+management.py[LINE:53]# INFO     [2019-12-29 03:25:13,989]  armeytsy instagram resource is parsed
+management.py[LINE:50]# INFO     [2019-12-29 03:25:13,989]  start to parse pfcarsenaltula instagram resource
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:25:16,876]  scraper 12 posts
+management.py[LINE:53]# INFO     [2019-12-29 03:25:16,876]  pfcarsenaltula instagram resource is parsed
+management.py[LINE:50]# INFO     [2019-12-29 03:25:16,877]  start to parse fcorenburg instagram resource
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:25:18,849]  scraper 12 posts
+management.py[LINE:53]# INFO     [2019-12-29 03:25:18,849]  fcorenburg instagram resource is parsed
+management.py[LINE:50]# INFO     [2019-12-29 03:25:18,849]  start to parse fans_fcakhmat_grozny instagram resource
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:25:20,997]  scraper 12 posts
+management.py[LINE:53]# INFO     [2019-12-29 03:25:20,997]  fans_fcakhmat_grozny instagram resource is parsed
+management.py[LINE:50]# INFO     [2019-12-29 03:25:20,997]  start to parse fc_rostov61 instagram resource
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:25:22,970]  scraper 12 posts
+management.py[LINE:53]# INFO     [2019-12-29 03:25:22,971]  fc_rostov61 instagram resource is parsed
+management.py[LINE:50]# INFO     [2019-12-29 03:25:22,971]  start to parse fc_ural instagram resource
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:25:24,908]  scraper 12 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:25:25,693]  scraper 24 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:25:26,564]  scraper 36 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:25:27,300]  scraper 48 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:25:28,542]  scraper 60 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:25:29,348]  scraper 72 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:25:30,175]  scraper 84 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:25:31,078]  scraper 96 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:25:31,967]  scraper 108 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:25:32,751]  scraper 120 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:25:33,611]  scraper 132 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:25:34,541]  scraper 144 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:25:35,384]  scraper 156 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:25:36,245]  scraper 168 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:25:37,001]  scraper 180 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:25:37,713]  scraper 192 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:25:38,633]  scraper 204 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:25:39,376]  scraper 216 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:25:40,265]  scraper 228 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:25:41,160]  scraper 240 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:25:42,074]  scraper 252 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:25:42,972]  scraper 264 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:25:43,842]  scraper 276 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:25:44,678]  scraper 288 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:25:45,517]  scraper 300 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:25:46,408]  scraper 312 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:25:47,277]  scraper 324 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:25:47,985]  scraper 336 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:25:48,932]  scraper 348 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:25:49,803]  scraper 360 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:25:50,688]  scraper 372 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:25:51,457]  scraper 384 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:25:52,355]  scraper 396 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:25:53,256]  scraper 408 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:25:54,104]  scraper 420 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:25:54,912]  scraper 432 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:25:55,690]  scraper 444 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:25:56,516]  scraper 456 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:25:57,314]  scraper 468 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:25:58,098]  scraper 480 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:25:58,925]  scraper 492 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:26:00,050]  scraper 504 posts
+instagram_parser.py[LINE:161]# INFO     [2019-12-29 03:26:00,050]  processing 1/17 posts batch
+instagram_parser.py[LINE:168]# INFO     [2019-12-29 03:26:11,340]  instagram resource fc_ural reach day limit
+management.py[LINE:53]# INFO     [2019-12-29 03:26:11,341]  fc_ural instagram resource is parsed
+management.py[LINE:50]# INFO     [2019-12-29 03:26:11,341]  start to parse _fc.rubin_ instagram resource
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:26:12,966]  scraper 12 posts
+management.py[LINE:53]# INFO     [2019-12-29 03:26:12,967]  _fc.rubin_ instagram resource is parsed
+management.py[LINE:50]# INFO     [2019-12-29 03:26:12,967]  start to parse fc.dinamo_moskow instagram resource
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:26:14,699]  scraper 12 posts
+management.py[LINE:53]# INFO     [2019-12-29 03:26:14,700]  fc.dinamo_moskow instagram resource is parsed
+management.py[LINE:50]# INFO     [2019-12-29 03:26:14,700]  start to parse sovsportru instagram resource
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:26:16,674]  scraper 12 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:26:17,252]  scraper 24 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:26:17,994]  scraper 36 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:26:18,623]  scraper 48 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:26:19,227]  scraper 60 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:26:19,809]  scraper 72 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:26:20,380]  scraper 84 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:26:20,973]  scraper 96 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:26:21,624]  scraper 108 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:26:22,273]  scraper 120 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:26:22,858]  scraper 132 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:26:23,424]  scraper 144 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:26:24,007]  scraper 156 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:26:24,720]  scraper 168 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:26:25,497]  scraper 180 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:26:26,119]  scraper 192 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:26:26,700]  scraper 204 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:26:27,654]  scraper 216 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:26:28,708]  scraper 228 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:26:29,511]  scraper 240 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:26:30,630]  scraper 252 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:26:31,518]  scraper 264 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:26:32,296]  scraper 276 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:26:33,099]  scraper 288 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:26:33,685]  scraper 300 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:26:34,304]  scraper 312 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:26:34,871]  scraper 324 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:26:35,501]  scraper 336 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:26:36,162]  scraper 348 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:26:36,778]  scraper 360 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:26:37,436]  scraper 372 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:26:38,165]  scraper 384 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:26:38,727]  scraper 396 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:26:39,394]  scraper 408 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:26:40,036]  scraper 420 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:26:40,656]  scraper 432 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:26:41,263]  scraper 444 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:26:41,966]  scraper 456 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:26:42,524]  scraper 468 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:26:43,076]  scraper 480 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:26:43,751]  scraper 492 posts
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:26:44,408]  scraper 504 posts
+instagram_parser.py[LINE:161]# INFO     [2019-12-29 03:26:44,409]  processing 1/17 posts batch
+instagram_parser.py[LINE:168]# INFO     [2019-12-29 03:27:11,443]  instagram resource sovsportru reach day limit
+management.py[LINE:53]# INFO     [2019-12-29 03:27:11,444]  sovsportru instagram resource is parsed
+management.py[LINE:50]# INFO     [2019-12-29 03:27:11,444]  start to parse championat_com instagram resource
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:27:13,859]  scraper 12 posts
+management.py[LINE:53]# INFO     [2019-12-29 03:27:13,859]  championat_com instagram resource is parsed
+management.py[LINE:50]# INFO     [2019-12-29 03:27:13,859]  start to parse eurosport.ru instagram resource
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:27:15,915]  scraper 12 posts
+management.py[LINE:53]# INFO     [2019-12-29 03:27:15,916]  eurosport.ru instagram resource is parsed
+management.py[LINE:50]# INFO     [2019-12-29 03:27:15,916]  start to parse bookmakersrating instagram resource
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:27:17,894]  scraper 12 posts
+management.py[LINE:53]# INFO     [2019-12-29 03:27:17,894]  bookmakersrating instagram resource is parsed
+management.py[LINE:50]# INFO     [2019-12-29 03:27:17,894]  start to parse premierliga instagram resource
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:27:19,881]  scraper 12 posts
+management.py[LINE:53]# INFO     [2019-12-29 03:27:19,882]  premierliga instagram resource is parsed
+management.py[LINE:50]# INFO     [2019-12-29 03:27:19,882]  start to parse russiahockey instagram resource
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:27:22,144]  scraper 12 posts
+management.py[LINE:53]# INFO     [2019-12-29 03:27:22,145]  russiahockey instagram resource is parsed
+management.py[LINE:50]# INFO     [2019-12-29 03:27:22,145]  start to parse basketball_nba_sportsru instagram resource
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 03:27:24,220]  scraper 12 posts
+management.py[LINE:53]# INFO     [2019-12-29 03:27:24,220]  basketball_nba_sportsru instagram resource is parsed
+management.py[LINE:58]# INFO     [2019-12-29 03:27:24,221]  instagram resource is parsed
+management.py[LINE:33]# INFO     [2019-12-29 03:27:25,575]  old db records deleted
+management.py[LINE:39]# INFO     [2019-12-29 03:27:25,581]  old files deleted
+proxy_helper.py[LINE:74]# INFO     [2019-12-29 03:27:26,142]  checking 1/7 proxy batch
+proxy_helper.py[LINE:74]# INFO     [2019-12-29 03:28:22,905]  checking 2/7 proxy batch
+proxy_helper.py[LINE:74]# INFO     [2019-12-29 03:29:41,029]  checking 3/7 proxy batch
+proxy_helper.py[LINE:74]# INFO     [2019-12-29 03:30:38,085]  checking 4/7 proxy batch
+proxy_helper.py[LINE:74]# INFO     [2019-12-29 03:31:14,136]  checking 5/7 proxy batch
+proxy_helper.py[LINE:74]# INFO     [2019-12-29 03:32:29,361]  checking 6/7 proxy batch
+proxy_helper.py[LINE:74]# INFO     [2019-12-29 03:33:34,715]  checking 7/7 proxy batch
+proxy_helper.py[LINE:85]# INFO     [2019-12-29 03:33:56,815]  proxy checking finished, found 1416 valid proxies
+base_forecasts.py[LINE:85]# INFO     [2019-12-29 03:33:57,839]  scraped 3 pages
+base_forecasts.py[LINE:91]# INFO     [2019-12-29 03:33:57,839]  Next pages already parsed
+base_forecasts.py[LINE:99]# INFO     [2019-12-29 03:33:57,839]  all pages scraped, scraping finished, found 75 forecasts
+base_forecasts.py[LINE:106]# INFO     [2019-12-29 03:33:57,841]  parsed 1/8 forecasts chunks
+base_forecasts.py[LINE:106]# INFO     [2019-12-29 03:34:09,852]  parsed 2/8 forecasts chunks
+base_forecasts.py[LINE:106]# INFO     [2019-12-29 03:34:20,135]  parsed 3/8 forecasts chunks
+base_forecasts.py[LINE:106]# INFO     [2019-12-29 03:34:29,741]  parsed 4/8 forecasts chunks
+base_forecasts.py[LINE:106]# INFO     [2019-12-29 03:34:35,735]  parsed 5/8 forecasts chunks
+base_forecasts.py[LINE:106]# INFO     [2019-12-29 03:35:09,076]  parsed 6/8 forecasts chunks
+base_forecasts.py[LINE:106]# INFO     [2019-12-29 03:35:29,557]  parsed 7/8 forecasts chunks
+base_forecasts.py[LINE:106]# INFO     [2019-12-29 03:36:07,235]  parsed 8/8 forecasts chunks
+base_forecasts.py[LINE:110]# INFO     [2019-12-29 03:36:24,390]  parsing finished
+management.py[LINE:58]# INFO     [2019-12-29 03:36:24,390]  odds resource is parsed
+management.py[LINE:33]# INFO     [2019-12-29 03:36:25,815]  old db records deleted
+management.py[LINE:39]# INFO     [2019-12-29 03:36:25,822]  old files deleted
+proxy_helper.py[LINE:74]# INFO     [2019-12-29 03:36:26,396]  checking 1/6 proxy batch
+proxy_helper.py[LINE:74]# INFO     [2019-12-29 03:38:44,951]  checking 2/6 proxy batch
+proxy_helper.py[LINE:74]# INFO     [2019-12-29 03:39:49,237]  checking 3/6 proxy batch
+connection.py[LINE:435]# WARNING  [2019-12-29 03:39:58,963]  Certificate did not match expected hostname: stavka.tv. Certificate: {'subject': ((('commonName', 'search.dnsadvantage.com'),),), 'subjectAltName': [('DNS', 'search.dnsadvantage.com')]}
+proxy_helper.py[LINE:74]# INFO     [2019-12-29 03:40:45,976]  checking 4/6 proxy batch
+proxy_helper.py[LINE:74]# INFO     [2019-12-29 03:42:07,031]  checking 5/6 proxy batch
+proxy_helper.py[LINE:74]# INFO     [2019-12-29 03:52:50,843]  checking 6/6 proxy batch
+proxy_helper.py[LINE:85]# INFO     [2019-12-29 03:54:14,711]  proxy checking finished, found 1329 valid proxies
+stavka_forecasts.py[LINE:36]# WARNING  [2019-12-29 03:54:16,005]  received 2 forecasts, but expected 20
+base_forecasts.py[LINE:85]# INFO     [2019-12-29 03:54:16,016]  scraped 3 pages
+base_forecasts.py[LINE:91]# INFO     [2019-12-29 03:54:16,016]  Next pages already parsed
+base_forecasts.py[LINE:99]# INFO     [2019-12-29 03:54:16,016]  all pages scraped, scraping finished, found 42 forecasts
+base_forecasts.py[LINE:106]# INFO     [2019-12-29 03:54:16,018]  parsed 1/5 forecasts chunks
+base_forecasts.py[LINE:106]# INFO     [2019-12-29 03:54:17,749]  parsed 2/5 forecasts chunks
+base_forecasts.py[LINE:106]# INFO     [2019-12-29 03:54:19,329]  parsed 3/5 forecasts chunks
+base_forecasts.py[LINE:106]# INFO     [2019-12-29 03:54:21,135]  parsed 4/5 forecasts chunks
+base_forecasts.py[LINE:106]# INFO     [2019-12-29 03:54:22,727]  parsed 5/5 forecasts chunks
+base_forecasts.py[LINE:110]# INFO     [2019-12-29 03:54:23,488]  parsing finished
+management.py[LINE:58]# INFO     [2019-12-29 03:54:23,488]  stavka resource is parsed
+management.py[LINE:33]# INFO     [2019-12-29 03:54:24,812]  old db records deleted
+management.py[LINE:39]# INFO     [2019-12-29 03:54:24,818]  old files deleted
+proxy_helper.py[LINE:74]# INFO     [2019-12-29 03:54:25,470]  checking 1/7 proxy batch
+proxy_helper.py[LINE:74]# INFO     [2019-12-29 03:55:31,030]  checking 2/7 proxy batch
+proxy_helper.py[LINE:74]# INFO     [2019-12-29 03:56:38,342]  checking 3/7 proxy batch
+proxy_helper.py[LINE:74]# INFO     [2019-12-29 03:57:40,737]  checking 4/7 proxy batch
+proxy_helper.py[LINE:74]# INFO     [2019-12-29 03:58:30,782]  checking 5/7 proxy batch
+proxy_helper.py[LINE:74]# INFO     [2019-12-29 03:59:18,580]  checking 6/7 proxy batch
+proxy_helper.py[LINE:74]# INFO     [2019-12-29 04:00:25,226]  checking 7/7 proxy batch
+proxy_helper.py[LINE:85]# INFO     [2019-12-29 04:00:41,621]  proxy checking finished, found 1474 valid proxies
+vprognoze_forecasts.py[LINE:215]# INFO     [2019-12-29 04:00:44,075]  Logged successfully
+base_forecasts.py[LINE:85]# INFO     [2019-12-29 04:01:17,569]  scraped 3 pages
+base_forecasts.py[LINE:85]# INFO     [2019-12-29 04:01:19,926]  scraped 6 pages
+base_forecasts.py[LINE:91]# INFO     [2019-12-29 04:01:19,926]  Next pages already parsed
+base_forecasts.py[LINE:99]# INFO     [2019-12-29 04:01:19,926]  all pages scraped, scraping finished, found 72 forecasts
+base_forecasts.py[LINE:106]# INFO     [2019-12-29 04:01:19,927]  parsed 1/8 forecasts chunks
+base_forecasts.py[LINE:106]# INFO     [2019-12-29 04:01:23,229]  parsed 2/8 forecasts chunks
+base_forecasts.py[LINE:106]# INFO     [2019-12-29 04:01:27,488]  parsed 3/8 forecasts chunks
+base_forecasts.py[LINE:106]# INFO     [2019-12-29 04:01:44,972]  parsed 4/8 forecasts chunks
+base_forecasts.py[LINE:106]# INFO     [2019-12-29 04:02:01,546]  parsed 5/8 forecasts chunks
+base_forecasts.py[LINE:106]# INFO     [2019-12-29 04:02:05,575]  parsed 6/8 forecasts chunks
+base_forecasts.py[LINE:106]# INFO     [2019-12-29 04:02:09,526]  parsed 7/8 forecasts chunks
+base_forecasts.py[LINE:106]# INFO     [2019-12-29 04:02:13,099]  parsed 8/8 forecasts chunks
+base_forecasts.py[LINE:110]# INFO     [2019-12-29 04:02:16,065]  parsing finished
+management.py[LINE:58]# INFO     [2019-12-29 04:02:16,065]  vprognoze resource is parsed
+management.py[LINE:33]# INFO     [2019-12-29 04:02:17,944]  old db records deleted
+management.py[LINE:39]# INFO     [2019-12-29 04:02:17,945]  old files deleted
+proxy_helper.py[LINE:74]# INFO     [2019-12-29 04:02:19,252]  checking 1/6 proxy batch
+proxy_helper.py[LINE:74]# INFO     [2019-12-29 04:03:51,553]  checking 2/6 proxy batch
+proxy_helper.py[LINE:74]# INFO     [2019-12-29 04:05:07,240]  checking 3/6 proxy batch
+proxy_helper.py[LINE:74]# INFO     [2019-12-29 04:06:13,054]  checking 4/6 proxy batch
+proxy_helper.py[LINE:74]# INFO     [2019-12-29 04:06:57,631]  checking 5/6 proxy batch
+proxy_helper.py[LINE:74]# INFO     [2019-12-29 04:07:57,818]  checking 6/6 proxy batch
+proxy_helper.py[LINE:85]# INFO     [2019-12-29 04:09:13,328]  proxy checking finished, found 1245 valid proxies
+base_forecasts.py[LINE:85]# INFO     [2019-12-29 04:09:14,271]  scraped 3 pages
+base_forecasts.py[LINE:91]# INFO     [2019-12-29 04:09:14,271]  Next pages already parsed
+base_forecasts.py[LINE:99]# INFO     [2019-12-29 04:09:14,273]  all pages scraped, scraping finished, found 45 forecasts
+base_forecasts.py[LINE:106]# INFO     [2019-12-29 04:09:14,274]  parsed 1/5 forecasts chunks
+base_forecasts.py[LINE:106]# INFO     [2019-12-29 04:09:24,648]  parsed 2/5 forecasts chunks
+base_forecasts.py[LINE:106]# INFO     [2019-12-29 04:09:31,101]  parsed 3/5 forecasts chunks
+base_forecasts.py[LINE:106]# INFO     [2019-12-29 04:09:37,399]  parsed 4/5 forecasts chunks
+base_forecasts.py[LINE:106]# INFO     [2019-12-29 04:09:53,700]  parsed 5/5 forecasts chunks
+base_forecasts.py[LINE:110]# INFO     [2019-12-29 04:10:06,397]  parsing finished
+management.py[LINE:58]# INFO     [2019-12-29 04:10:06,398]  vseprosport resource is parsed
+management.py[LINE:33]# INFO     [2019-12-29 04:47:49,110]  old db records deleted
+management.py[LINE:39]# INFO     [2019-12-29 04:47:49,132]  old files deleted
+proxy_helper.py[LINE:74]# INFO     [2019-12-29 04:47:52,275]  checking 1/1 proxy batch
+proxy_helper.py[LINE:85]# INFO     [2019-12-29 04:48:39,329]  proxy checking finished, found 135 valid proxies
+management.py[LINE:50]# INFO     [2019-12-29 04:48:39,333]  start to parse fc_ural instagram resource
+instagram_parser.py[LINE:98]# INFO     [2019-12-29 04:48:45,534]  scraper 12 posts
